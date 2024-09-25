@@ -1,0 +1,6 @@
+Berta György rendszerterve.
+Ellenőrizte Pap Máté
+Nincs nehézségi szint választás.
+Nem jelez hibát, ha már foglalt mezőre rakna a játékos/bot
+Nem kezeli a döntetlen esetét, ha a pálya megtelik
+Jól megvalósítja az amőba játékot.
